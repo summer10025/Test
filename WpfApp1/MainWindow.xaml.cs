@@ -18,7 +18,7 @@ namespace WpfApp1
     {
         private double _firstOperand;
         private string _operator = "";
-        private bool _isNewEntry = true;
+        private bool _isNewEntry = false;
 
         public MainWindow()
         {
